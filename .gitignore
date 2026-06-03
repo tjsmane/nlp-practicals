@@ -216,3 +216,73 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# =========================
+# Python & Environment
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+.env
+
+# =========================
+# Jupyter Notebooks
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# NLP Datasets & Text
+# =========================
+data/raw/
+data/processed/
+*.csv
+*.tsv
+*.txt
+*.json
+*.jsonl
+*.xml
+
+# =========================
+# Models & Weights
+# =========================
+*.pt
+*.pth
+*.h5
+*.hdf5
+*.ckpt
+*.safetensors
+models/
+checkpoints/
+
+# =========================
+# OS Generated Files
+# =========================
+.DS_Store
+Thumbs.db
