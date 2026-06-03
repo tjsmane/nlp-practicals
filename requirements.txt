@@ -1,0 +1,22 @@
+# NLP Practicals - Semester V - Requirements
+
+# Core NLP Libraries
+nltk>=3.8.1
+spacy>=3.7.4
+
+# Machine Learning & Tensors
+torch>=2.2.1
+
+# Data Processing & Visualization
+numpy>=1.26.4
+pandas>=2.2.1
+scikit-learn>=1.4.1.post1
+matplotlib>=3.8.3
+
+# Jupyter Environment
+notebook>=7.1.1
+jupyterlab>=4.1.2
+
+# spaCy English Model
+# (Installing directly via URL ensures it downloads with pip install -r requirements.txt)
+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1.tar.gz
