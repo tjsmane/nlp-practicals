@@ -1,8 +1,6 @@
-# nlp-practicals
-Repository for College Practicals of Natural Language Processing at KES’ B K Shroff College of Arts &amp; M H Shroff College of Commerce
-
-
 # Natural Language Processing - Semester V Practicals
+
+Repository for College Practicals of Natural Language Processing at KES’ B K Shroff College of Arts &amp; M H Shroff College of Commerce Semester 5
 
 This repository contains the practical experiments, assignments, and active codebase for the Semester V Natural Language Processing (NLP) course.
 
